@@ -23,7 +23,7 @@ def draft_email(user_input, name="Dave"):
     
     Start your reply by saying: "Hi {name}, here's a draft for your reply:". And then proceed with the reply on a new line.
     
-    Make sure to sign of with {signature}.
+    Make sure to sign of with {signature}. 
     
     """
 
